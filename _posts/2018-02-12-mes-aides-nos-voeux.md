@@ -22,3 +22,5 @@ En 2018, enfin, nous souhaitons faciliter les demandes d'aides des usagers. Les 
 Vous aussi êtes sensibles à ces sujets ? N’hésitez pas à [nous contacter](mailto:bonjour@mes-aides.gouv.fr?subject=Commentaire%20sur%20votre%20article%20du%20blog%20beta.gouv.fr) : derrière chaque mail que nous recevons, il y a un humain qui prendra soin de votre message 🙂
 
 🎉 Bonne année 2018 ! 🎉
+
+<small>Crédit photo : [Pexels](https://www.pexels.com/photo/person-holding-blue-ballpoint-pen-writing-in-notebook-210661/) sous license [CC0 Creative Commons](https://creativecommons.org/publicdomain/zero/1.0/)</small>
