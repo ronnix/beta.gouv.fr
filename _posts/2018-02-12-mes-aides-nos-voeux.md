@@ -11,12 +11,17 @@ authors:
 ### Orienter vers les ressources les plus pertinentes
 En 2018, nous souhaitons apporter des ressources et informations encore plus personnalisées aux usagers. En fin de simulation, des liens pour commencer les démarches sont mis en avant. Or le RSA et l’APA à domicile possèdent des spécificités selon le département. En travaillant avec le Grand Lyon et la Ville de Paris, nous avons modifié pour ces deux cas les liens associés. Cette personnalisation est également pour nous un très bon moyen d‘augmenter notre impact et de [commencer une collaboration à moindre coût](mailto:bonjour@mes-aides.gouv.fr?subject=Mettre%20en%20place%20des%20liens%20pertinents%20pour%20nos%20usagers) avec les collectivités territoriales.
 
-![Exemple de personnalisation de l‘APA pour la ville de Paris](/img/posts/2018-02-12-mes-aides-nos-voeux/1-apa-paris.png)
+#### Exemple de personnalisation pour l'allocation personnalisée d‘autonomie
+![Capture d'écran d'une partie de la page résultats sur mes-aides.gouv.fr](/img/posts/2018-02-12-mes-aides-nos-voeux/1-apa-paris-resultats.png)
+
+##### Téléservice vers lequel l'usager parisien est dirigé pour commencer sa demande d‘APA
+![Capture d'écran du téléservice de Paris pour l'APA](/img/posts/2018-02-12-mes-aides-nos-voeux/1-apa-paris-teleservice.png)
 
 ### Orienter vers les lieux d‘accueil et de médiation
 En 2018, nous souhaitons développer de nouveaux liens avec les lieux d’accueil physiques pour faire un point sur ses droits. Depuis la fin de l’année dernière, nous affichons en fin de simulation [les maisons de service au public](https://www.maisondeservicesaupublic.fr/) les plus proches de l’utilisateur grâce aux données de [l’annuaire de service public](https://lannuaire.service-public.fr). D’autres lieux pouvant accueillir et renseigner, comme des associations locales, n’y sont pas répertoriées : nous invitons les personnes qui interviennent dans de tels lieux à [nous contacter](mailto:bonjour@mes-aides.gouv.fr?subject=Ajouter%20mon%20%C3%A9tablissement%20%C3%A0%20la%20page%20des%20r%C3%A9sultats) pour y ajouter leur établissement.
 
-![Les points d‘accueil physique mis en avant pour Mauges-sur-Loire](/img/posts/2018-02-12-mes-aides-nos-voeux/2-msap.png)
+#### Exemple de points d'accueil physique mis en avant
+![Points d‘accueil physique mis en avant pour Mauges-sur-Loire](/img/posts/2018-02-12-mes-aides-nos-voeux/2-msap.png)
 
 ### Augmenter le nombre d‘aides présentées
 En 2018, nous souhaitons proposer de nouvelles aides légales et extra-légales. Le succès de Mes Aides repose sur un moteur de calcul libre et ouvert : [OpenFisca](https://www.openfisca.org). C’est à travers lui que nous pouvons proposer une seule simulation pour plusieurs aides. OpenFisca peut simplement être amélioré en y ajoutant de nouvelles formules et en définissant de nouvelles règles, comme cela a été le cas avec la métropole de Rennes et sa tarification solidaire de transports. Pour 2018, nous souhaitons développer Mes Aides en nous associant à de nouvelles villes, collectivités, régions ou bien encore de nouveaux territoires.
