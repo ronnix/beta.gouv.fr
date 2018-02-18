@@ -1,6 +1,5 @@
 ---
 title: Les bonnes résolutions de Mes Aides pour 2018
-startup: mes-aides
 authors:
     - sylvain.dermy
     - thomas.guillet
