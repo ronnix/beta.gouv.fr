@@ -6,8 +6,8 @@ incubator: dinsic
 status: death
 start: 2015-12-01
 end:
-link:
-repository:
+link: https://boussole.beta.gouv.fr
+repository: https://github.com/betagouv/boussole
 stats: false
 contact: contact@boussole.beta.gouv.fr
 ---
