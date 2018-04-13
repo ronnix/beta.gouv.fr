@@ -2,10 +2,11 @@
 title: Camino
 mission: Ouvrir les données du domaine minier pour partager l'information sur les projets et faciliter leur gestion.
 owner: Ministère de la transition écologique et solidaire
-status: investigation
+incubator: mtes
+status: construction
 start: 2018-01-01
 end:
-link: http://camino.beta.gouv.fr
+link: https://camino.beta.gouv.fr
 repository:
 stats: false
 contact: contact@camino.beta.gouv.fr
